@@ -12,17 +12,19 @@ In order to execute the scripts, follow the steps:
 
 ## Sample Images
 
+Kindly note, the images used to display have been converted to webP format for faster loading. Originally, images in PNG format will be generated.  
+
 ### Original Image
 ![Original Image](./images/1.jpg)
 
 ### Encrypted Image
-![Encrypted Image](./images/Encrypted.png)
+![Encrypted Image](./images/Encrypted.webp)
 
 ### Key
-![Key](./images/Key.png)
+![Key](./images/Key.webp)
 
 ### Decrypted Image
-![Decrypted Image](./images/Decrypted.png)
+![Decrypted Image](./images/Decrypted.webp)
 
 ## Important
 
